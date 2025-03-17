@@ -1,4 +1,4 @@
-### Hey,[ Felipe here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey,[ Felipe here! ](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am an IT student with a strong interest in starting my professional career and gaining experience in the technology field. I am looking for an opportunity to learn and grow in a dynamic and professional environment.
 
 
