@@ -1,7 +1,9 @@
 ### Hey,[ Felipe here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I am an IT student with a strong interest in starting my professional career and gaining experience in the technology field. I am looking for an opportunity to learn and grow in a dynamic and professional environment.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/felipe-camejo-a21468314) [![Gmail Badge](https://img.shields.io/badge/-23felipecamejo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:23felipecamejo@gmail.com)](mailto:23felipecamejo@gmail.com) 
+
 
 
 ## Technologies
